@@ -1,0 +1,8 @@
+site_name: Realmsoar
+site_url: https://realmsoar.github.io
+site_author: you
+site_description: The Realmsoar RPG Setting
+
+nav:
+    - About: index.md
+
