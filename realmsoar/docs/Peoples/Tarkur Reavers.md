@@ -1,0 +1,1 @@
+The Tarkur Reavers are a race of magical constructs created by merging multiple beings into singular bodies. They roam the skies, seeking to expand their magical knowledge and abilities from other races and islands.

@@ -1,0 +1,1 @@
+Diplomatic and loyal, the Aetharbound serve as intermediaries between various island factions, utilizing their keen intellect and diplomacy to maintain alliances and broker deals. Gifted with the ability to communicate across great distances, they ensure the balance of power within the sky archipelago.

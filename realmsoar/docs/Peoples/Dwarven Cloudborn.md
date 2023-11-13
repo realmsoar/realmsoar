@@ -1,0 +1,1 @@
+The honor-bound Dwarven Cloudborn are a proud and fierce race that excels in aerial combat. They value bravery, strength, and loyalty, often forming the core of the warrior factions. Their skyships are heavily armored and equipped for battle. They have a strong sense of loyalty and courage, often seeking glory in the skies through heroic feats and skilled skyship battles.

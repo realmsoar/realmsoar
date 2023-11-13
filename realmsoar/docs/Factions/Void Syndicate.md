@@ -1,0 +1,1 @@
+A group that seeks to assimilate magical knowledge and power from other islands. They use a unique form of magic to merge minds and resources, striving to create a unified, all-knowing collective. Players might resist their influence or attempt to infiltrate their ranks to learn their secrets.

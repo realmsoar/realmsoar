@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+## Background
+In Realmsoar, the world consists of a sprawling archipelago of sky islands, each floating amidst the clouds. These islands vary in size and terrain, from lush forests to barren deserts, and are connected by a network of sky ships. These sky ships, resembling sailing vessels, utilize advanced magical technology to navigate the skies between the islands.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+As players explore this world, they'll encounter diverse cultures and civilizations that have developed on each island. Some islands might be home to scholarly wizards who harness the power of the floating islands to conduct magical research, while others could house fierce warrior tribes that have mastered the art of aerial combat. Trade routes between islands are crucial, and players can choose to become traders, explorers, or even sky pirates.
 
-## Commands
+The central hub of this world is [[Nova Spire]], a bustling island city that serves as a melting pot of different cultures and technologies. It's a place where players can find quests, interact with NPCs, acquire resources, and upgrade their sky ships. It is also hub for political intrigue and diplomatic negotiations between the various island factions.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Players can customize their sky ships with different types of sails, magical propulsion systems, weaponry, and defenses. As they journey from island to island, they'll need to navigate treacherous weather patterns, avoid sky monsters, and engage in epic aerial battles. The skies are also home to mysterious phenomena, such as floating ruins of ancient civilizations, magical storms, and portals to other dimensions.
 
-## Project layout
+Ultimately, the players' choices and actions will influence the balance of power between the islands, shaping the fate of this world. Whether they seek to establish peace, dominate through conquest, or uncover the secrets of the floating islands, the adventure awaits as they soar through the skies on their own sky ships.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Realmsoar
+In the world of Realmsoar, where magic intertwines with the very fabric of reality, the skies are not only a canvas of clouds and winds, but also a realm of adventure, mystery, and power. Vast archipelagos of floating islands drift serenely amidst the endless expanse of the aether, each island a microcosm of diverse cultures, races, and untold magic. The skies, once thought to be boundless, are now home to soaring [[skyships]] that navigate between islands, forging alliances, uncovering ancient secrets, and engaging in epic battles amidst the billowing skies.
+
+Within this breathtaking world, the winds whisper tales of the [[Aeran Mystics]] who commune with the very essence of the sky, the [[Gnomish Skytinkers]] who weave magic into contraptions of marvel and fortune, and the [[Dwarven Cloudborn]] whose courage and honor mirror the skies' vastness. Yet, amidst the beauty and wonder, shadows loom; the enigmatic [[Ascendant Domain]] manipulates destiny, [[Kalari]] pirates plunder from above, and the relentless [[Void Syndicate]] threatens to consume all that stands in its path.
+
+As a traveler in these ethereal realms, you are bound to the tapestry of these skies. You may find yourself exploring the depths of [[Elemental Forges]], navigating through shifting labyrinths, forging allegiances with powerful factions, or unearthing the long-lost lore of [[Nova Spire]]'s traders. As you soar on your own [[skyship]] through radiant auras and stormy tempests, you'll shape the destiny of these islands, forge your legend in the heavens, and discover that in the skies of Realmsoar, every gust of wind carries echoes of forgotten magic and untold tales. The adventure awaits, where the sky is not just a limit, but a boundless canvas upon which you write your own saga.

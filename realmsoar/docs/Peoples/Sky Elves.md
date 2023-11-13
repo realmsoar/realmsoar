@@ -1,0 +1,3 @@
+Stoic and logical, the Sky Elves are known for their keen intellect, discipline, and mastery of magical arts. They have a deep connection to the floating islands and are often scholars, researchers, and advisors in matters of magic and diplomacy.
+
+They are marked by their profound connection to the magical energies of the sky islands. They are highly intelligent, practicing advanced arcane arts, and tend to approach situations with measured thoughtfulness.

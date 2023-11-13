@@ -1,0 +1,1 @@
+The shrewd Gnomish Skytinkers are brilliant inventors, traders, and entrepreneurs. They have a knack for magical engineering and are always seeking ways to profit from their creations. Their skyships are often laden with magical gadgets and contraptions.

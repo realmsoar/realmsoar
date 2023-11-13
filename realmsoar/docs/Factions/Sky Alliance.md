@@ -1,0 +1,1 @@
+A coalition of islands that have come together to promote peace, cooperation, and exploration. They value diplomacy, magical discovery, and the sharing of knowledge. Players aligned with the Sky Alliance might take on roles as diplomats, explorers, or researchers.

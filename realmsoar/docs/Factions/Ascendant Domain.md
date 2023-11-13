@@ -1,0 +1,1 @@
+An enigmatic and powerful faction that operates from the shadows. They claim to have transcended mortal limitations, and their motives are shrouded in mystery. Players might uncover their hidden agendas or attempt to challenge their dominance over the sky islands.

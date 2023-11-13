@@ -1,0 +1,1 @@
+Known for its cunning and ambition, the Imperium controls a cluster of islands and seeks to expand their influence through both political maneuvering and strategic alliances. Espionage, subterfuge, and calculated diplomacy are their tools of choice.

@@ -1,0 +1,1 @@
+The Sylvan Drifters are a race that thrives in higher, colder, altitudes. They have adapted to the floating islands' unique environments, with distinctive features like frost-resistant skin and the ability to glide through the air. They are often skilled scouts and hunters.

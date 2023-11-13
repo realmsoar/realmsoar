@@ -1,0 +1,1 @@
+The Kalari are a nomadic and competitive people of sky pirates and raiders. They roam the skies, seeking resources and engaging in skirmishes with other factions. They value strength and cunning, often challenging other islands' dominance through a series of aerial challenges and duels.

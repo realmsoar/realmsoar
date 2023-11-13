@@ -1,0 +1,1 @@
+Mysterious shape-shifters, they are the architects of The Ascendant Domain and are capable of changing their forms at will. They reside in hidden sanctuaries within the sky islands, wielding potent magical abilities that influence the fate of the world.
