@@ -4,5 +4,28 @@ site_author: you
 site_description: The Realmsoar RPG Setting
 
 nav:
-    - About: index.md
-
+    - Home: index.md
+    - The World:
+      - The Sky: the_sky.md
+      - Sky Ships: skyships.md
+      - Locations: locations.md
+    - The Peoples:
+      - Aeran Mystics: Peoples/Aeran Mystics.md
+      - Aetherbound: Peoples/Aetherbound.md
+      - Dwarven Cloudborn: Peoples/Dwarven Cloudborn.md
+      - Gnomish Skytinkers: Peoples/Gnomish Skytinkers.md
+      - Kalari: Peoples/Kalari.md
+      - Sky Elves: Peoples/Sky Elves.md
+      - Sylvan Drifters: Peoples/Sylvan Drifters.md
+      - Tarkur Reavers: Peoples/Tarkur Reavers.md
+      - The Essence: Peoples/The Essence.md
+    - The Factions:
+       - Aetherian Imperium: Factions/Aetherian Imperium.md
+       - Ascendant Domain: Factions/Ascendant Domain.md
+       - Sky Alliance: Factions/Sky Alliance.md
+       - Void Syndicate: Factions/Void Syndicate.md
+    - Behind the Scenes:
+      - In Fantasy World: fantasy_world_considerations.md    
+      - How Things Work: how_things_work.md
+      - Themes: themes.md
+      - Conflicts: conflicts.md
